@@ -1,4 +1,4 @@
-# BCA-Major-Project
+# BCA-Major-Project--VisionIOfMen
 **VisionIOfMen**
 An Android application offering a digital version of the Bhagavad Gita in 10 languages. This app provides easy access to chapters and verses with multilingual support for a diverse user base.
 
@@ -14,7 +14,7 @@ An Android application offering a digital version of the Bhagavad Gita in 10 lan
 - Malayalam
 - Bangla
 
-  ## Features
+## Features
 - **Multilingual Support:** Read and listen(In Sanskrit) to the Bhagavad Gita in 10 different languages.
 - **Complete Bhagavad Gita:** Access all 18 chapters and 700 verses.
 - **Verse Audio Playback:** Listen to verses with the built-in audio feature.
